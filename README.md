@@ -122,3 +122,12 @@ Durante o desenvolvimento deste projeto, pude consolidar diversos conceitos impo
 Este projeto foi um grande aprendizado para fortalecer minhas habilidades em desenvolvimento full-stack.
 
 
+<div>
+ <img alt="Home page" src="https://github.com/lbastoss/project-cadastro-usuarios/blob/main/src/assets/cadastro%20de%20usuarios.png" width="500" />
+  <figcaption> <p bold >Pagina de cadstro</p> </figcaption>
+ 
+ <img alt="Home page" src="https://github.com/lbastoss/project-cadastro-usuarios/blob/main/src/assets/cadastro%20de%20usuarios%20lista.png" width="500" />
+  <figcaption> <p>Usuários cadstrados</p> </figcaption>
+
+
+</div>
